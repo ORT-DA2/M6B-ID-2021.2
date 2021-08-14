@@ -30,7 +30,7 @@ El curso tiene como objetivo construir un servidor API REST con WebApi y una SPA
 
 ## Parte 1: .Net Core WebApi
 
-- Clase 1 - [Introducción temática](/Clases/Clase 1 - Intro/Intro_StackTecnologías.md) y NetCore
+- Clase 1 - [Introducción temática](/Clases/Clase_01-Intro/Intro_StackTecnologías.md) y NetCore
 
 - Clase 2 - WebApi y Creación de WebApi
 
