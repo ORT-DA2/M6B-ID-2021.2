@@ -22,7 +22,7 @@ Los docentes somos:
 - Nicolás Fierro (nicofierro94@gmail.com)
 - Daniel Acevedo (daniel18acevedo@gmail.com)
 - Andrés Bentos (asbentos@gmail.com)
-- Mateo Kruk ()
+- Mateo Kruk (mkrukuy@gmail.com)
 
 ## Acerca del curso
 
