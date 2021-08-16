@@ -1,7 +1,6 @@
-  
 # **Diseño de aplicaciones 2 - Clase de tecnologías**
 
-Estimados, sean bienvenidos al repositorio oficial para seguir las clase de **tecnologías **de todos los grupos**.
+Estimados, sean bienvenidos al repositorio oficial para seguir las clase de **tecnologías de todos los grupos**.
 
 Aquí van a encontrar material con ejemplos de aplicación, links de interés y cosas necesarias para seguir las clases y, por supuesto, para que **aprendan un montón y les vaya bien en el obligatorio**.
 
@@ -18,11 +17,22 @@ Se organiza así:
 Los docentes somos:
 
 - Santiago Méndez (santiagomendezvarela@outlook.com)
-- Sebastián Uriarte (sebastian.uriarteg@gmail.com) 
+- Sebastián Uriarte (sebastian.uriarteg@gmail.com)
 - Nicolás Fierro (nicofierro94@gmail.com)
 - Daniel Acevedo (daniel18acevedo@gmail.com)
 - Andrés Bentos (asbentos@gmail.com)
 - Mateo Kruk (mkrukuy@gmail.com)
+
+## M6B
+
+### Planillas
+
+- [Cuentas GitHub y grupos obligatorio](https://docs.google.com/spreadsheets/d/1exLFzcBQRFvF13MuBj5lnB9PjY-G3GklHtl_xBgQIJA/edit?usp=sharing)
+
+### Contacto
+
+- Grupo whatsapp: [Link](https://chat.whatsapp.com/DESfIfalEPs3IKURTeAqDd)
+- Link de Zoom: [Link](https://ortuy.zoom.us/j/93460707803?pwd=ZnlXYkdGanNIZmdBZSt1TGZ2WnNVZz09)
 
 ## Acerca del curso
 
