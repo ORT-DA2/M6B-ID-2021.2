@@ -31,7 +31,6 @@ Los docentes somos:
 
 ### Contacto
 
-- Grupo whatsapp: [Link](https://chat.whatsapp.com/DESfIfalEPs3IKURTeAqDd)
 - Link de Zoom: [Link](https://ortuy.zoom.us/j/93460707803?pwd=ZnlXYkdGanNIZmdBZSt1TGZ2WnNVZz09)
 
 ## Acerca del curso
