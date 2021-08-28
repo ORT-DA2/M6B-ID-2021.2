@@ -50,7 +50,7 @@ Para que nos funcione Angular es necesario tener [Node](https://nodejs.org/es/do
 ## Gestión del código
 Es imprescindible tener GIT instalado en el equipo ya que es el repositorio que vamos a utilizar.
 
--Se consigue acá: [GIT](https://git-scm.com) y se puede usar línea de comandos o aplicación con GUI. **En la que mejor trabajemos**.
+-Se consigue acá: [GIT](https://git-scm.com), se recomienda trabajar con una aplicacion GUI como [Github Desktop](https://desktop.github.com/) o [GitKraken](https://www.gitkraken.com/).
 
 
 # Conceptos que se necesitan desde el día 0
