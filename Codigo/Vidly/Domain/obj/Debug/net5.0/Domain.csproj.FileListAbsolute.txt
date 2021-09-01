@@ -1,0 +1,4 @@
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache

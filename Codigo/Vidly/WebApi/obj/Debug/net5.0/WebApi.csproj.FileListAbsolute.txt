@@ -1,0 +1,63 @@
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/appsettings.Development.json
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/appsettings.json
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/WebApi.deps.json
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/WebApi.runtimeconfig.json
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/WebApi.runtimeconfig.dev.json
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/WebApi.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/ref/WebApi.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/WebApi.pdb
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.csproj.AssemblyReference.cache
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.AssemblyInfoInputs.cache
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.AssemblyInfo.cs
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/staticwebassets/WebApi.StaticWebAssets.Manifest.cache
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/staticwebassets/WebApi.StaticWebAssets.xml
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/scopedcss/bundle/WebApi.styles.css
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.RazorTargetAssemblyInfo.cache
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.csproj.CopyComplete
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/ref/WebApi.dll
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.pdb
+/Users/mateokruk/Documents/DA2/M6B-ID-2021.2/clase_3/WebApi/obj/Debug/net5.0/WebApi.genruntimeconfig.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\WebApi.exe
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\WebApi.deps.json
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\WebApi.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\WebApi.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\BusinessLogic.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\BusinessLogicInterface.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\Factory.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\BusinessLogicInterface.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\Factory.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\bin\Debug\net5.0\BusinessLogic.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Clase_03-ID\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
