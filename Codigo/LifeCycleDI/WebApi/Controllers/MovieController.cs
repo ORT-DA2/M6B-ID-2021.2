@@ -23,7 +23,8 @@ namespace WebApi.Controllers
             this._movieServiceTransientTwo = movieServiceTransientTwo;
             this._movieServiceSingleton = movieServiceSingleton;
         }
-
+        
+        [HttpGet]
         public IActionResult Get()
         {
             Guid scopedId = this._movieServiceScoped.GetId();
