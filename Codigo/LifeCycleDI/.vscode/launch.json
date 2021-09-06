@@ -7,6 +7,9 @@
         {
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/WebApi/bin/Debug/net5.0/WebApi.dll",
             "args": [],
             "cwd": "${workspaceFolder}/WebApi",
             "stopAtEntry": false,
