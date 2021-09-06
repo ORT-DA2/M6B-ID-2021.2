@@ -35,11 +35,7 @@ namespace WebApi
             });
 
             services.AddScoped<IScoped, MovieService>();
-            services.AddScoped<IScoped, MovieService>();
-
             services.AddTransient<ITransient, MovieService>();
-            services.AddTransient<ITransient, MovieService>();
-
             services.AddSingleton<ISingleton, MovieService>();
         }
 
