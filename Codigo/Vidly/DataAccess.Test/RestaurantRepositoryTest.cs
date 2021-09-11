@@ -52,13 +52,33 @@ namespace DataAccess.Test
             {
                 Id = 1,
                 Name = "a",
-                Address="a"
+                Address = "a"
             });
             this._vidlyContext.SaveChanges();
             List<Restaurant> restaurantsDataBase = this._restaurantRepository.GetAll().ToList();
 
             Assert.AreEqual(1, restaurantsDataBase.Count());
             CollectionAssert.AreEqual(restaurantsExpected, restaurantsDataBase, new RestaurantComparer());
+        }
+
+        [TestMethod]
+        public void UpdateRestaurantTest()
+        {
+            this._vidlyContext.Add(new Restaurant
+            {
+                Id = 1,
+                Name = "a",
+                Address = "a"
+            });
+            this._vidlyContext.SaveChanges();
+
+            var restaurantUpdated = new Restaurant
+            {
+                Name = "b",
+                Address = "b",
+            };
+            this._restaurantRepository.Update(1, restaurantUpdated);
+
         }
     }
 }

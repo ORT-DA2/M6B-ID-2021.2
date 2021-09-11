@@ -39,17 +39,17 @@ namespace DataAccess
 
         public Restaurant GetById(int id)
         {
-            Restaurant restaurant = this._restaurants.FirstOrDefault(restaurant => restaurant.Id == id);
+            Restaurant restaurant = this._restaurants.First(restaurant => restaurant.Id == id);
 
             return restaurant;
         }
 
         public void Update(int id, Restaurant restaurant)
         {
-            Restaurant restaurantToUpdate = this._restaurants.FirstOrDefault(restaurant => restaurant.Id == id);
+            Restaurant restaurantToUpdate = this._restaurants.AsNoTracking().FirstOrDefault(restaurant => restaurant.Id == id);
 
-            restaurantToUpdate = restaurant;
-            restaurantToUpdate.Id = id;
+            restaurant.Id = id;
+            this._context.Entry<Restaurant>(restaurantToUpdate).CurrentValues.SetValues(restaurant);
 
             this._context.Entry<Restaurant>(restaurantToUpdate).State = EntityState.Modified;
             this._context.SaveChanges();
