@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using DataAccessInterface;
@@ -10,6 +11,7 @@ namespace DataAccess
     {
         private readonly DbSet<Restaurant> _restaurants;
         private readonly DbContext _context;
+
         public RestaurantRepository(DbContext context)
         {
             this._context = context;
@@ -27,7 +29,7 @@ namespace DataAccess
         public void Delete(int id)
         {
             var restaurantToDelete = this._restaurants.First(restaurant => restaurant.Id == id);
-            this._context.Entry<Restaurant>(restaurantToDelete).State = EntityState.Deleted;
+            this._restaurants.Remove(restaurantToDelete);
 
             this._context.SaveChanges();
         }
@@ -44,14 +46,14 @@ namespace DataAccess
             return restaurant;
         }
 
-        public void Update(int id, Restaurant restaurant)
+        public void UpdateAll(Restaurant restaurant)
         {
-            Restaurant restaurantToUpdate = this._restaurants.AsNoTracking().FirstOrDefault(restaurant => restaurant.Id == id);
+            if(restaurant is null)
+            {
+                throw new ArgumentNullException("Restaurant can't be null");
+            }
 
-            restaurant.Id = id;
-            this._context.Entry<Restaurant>(restaurantToUpdate).CurrentValues.SetValues(restaurant);
-
-            this._context.Entry<Restaurant>(restaurantToUpdate).State = EntityState.Modified;
+            this._restaurants.Update(restaurant);
             this._context.SaveChanges();
         }
     }

@@ -15,11 +15,13 @@ namespace DataAccess.Test
         private readonly DbConnection _connection;
         private readonly RestaurantRepository _restaurantRepository;
         private readonly VidlyContext _vidlyContext;
+        private readonly DbContextOptions<VidlyContext> _contextOptions;
 
         public RestaurantRepositoryTest()
         {
             this._connection = new SqliteConnection("Filename=:memory:");
-            this._vidlyContext = new VidlyContext(new DbContextOptionsBuilder<VidlyContext>().UseSqlite(this._connection).Options);
+            this._contextOptions = new DbContextOptionsBuilder<VidlyContext>().UseSqlite(this._connection).Options;
+            this._vidlyContext = new VidlyContext(this._contextOptions);
             this._restaurantRepository = new RestaurantRepository(this._vidlyContext);
         }
 
@@ -64,21 +66,31 @@ namespace DataAccess.Test
         [TestMethod]
         public void UpdateRestaurantTest()
         {
-            this._vidlyContext.Add(new Restaurant
+            using (var context = new VidlyContext(this._contextOptions))
             {
-                Id = 1,
-                Name = "a",
-                Address = "a"
-            });
-            this._vidlyContext.SaveChanges();
-
+                context.Add(new Restaurant
+                {
+                    Id = 1,
+                    Name = "a",
+                    Address = "a"
+                });
+                context.SaveChanges();
+            }
             var restaurantUpdated = new Restaurant
             {
+                Id = 1,
                 Name = "b",
                 Address = "b",
             };
-            this._restaurantRepository.Update(1, restaurantUpdated);
 
+            this._restaurantRepository.UpdateAll(restaurantUpdated);
+
+            using(var context = new VidlyContext(this._contextOptions))
+            {
+                var restaurantSaved = context.Set<Restaurant>().First(restaurant => restaurant.Id == 1);
+
+                Assert.AreEqual(0, new RestaurantComparer().Compare(restaurantUpdated, restaurantSaved));       
+            }
         }
     }
 }
