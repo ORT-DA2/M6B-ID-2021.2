@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WebApi.Test
-build_property.ProjectDir = C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\WebApi.Test\
+build_property.ProjectDir = c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\WebApi.Test\

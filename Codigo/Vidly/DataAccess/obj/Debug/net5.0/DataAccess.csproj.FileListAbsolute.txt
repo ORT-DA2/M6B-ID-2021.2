@@ -1,0 +1,17 @@
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\DataAccess.dll
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\DataAccessInterface.dll
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\Domain.dll
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\DataAccessInterface.pdb
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\bin\Debug\net5.0\Domain.pdb
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.dll
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+c:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\DataAccess\obj\Debug\net5.0\DataAccess.pdb
