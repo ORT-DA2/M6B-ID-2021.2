@@ -34,8 +34,12 @@ namespace WebApi
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApi", Version = "v1" });
             });
-            var factory = new ServiceFactory(services);
-            factory.AddCustomServices();
+
+            var serviceFactory = new ServiceFactory(services);
+            serviceFactory.AddCustomServices();
+
+            var repositoryFactory = new RepositoryFactory(services);
+            repositoryFactory.AddCustomServices();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

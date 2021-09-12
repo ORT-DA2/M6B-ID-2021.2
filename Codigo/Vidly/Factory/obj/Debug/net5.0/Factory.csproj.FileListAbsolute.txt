@@ -34,3 +34,7 @@ C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\obj\
 C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\obj\Debug\net5.0\Factory.dll
 C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\obj\Debug\net5.0\ref\Factory.dll
 C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\obj\Debug\net5.0\Factory.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\bin\Debug\net5.0\DataAccessInterface.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\bin\Debug\net5.0\DataAccessInterface.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\Factory\bin\Debug\net5.0\DataAccess.pdb

@@ -30,3 +30,5 @@ C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\BusinessLogi
 C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
 C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
 C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\BusinessLogic\bin\Debug\net5.0\DataAccessInterface.dll
+C:\Users\Daniel Acevedo\Documents\GitHub\M6B-ID-2021.2\Codigo\Vidly\BusinessLogic\bin\Debug\net5.0\DataAccessInterface.pdb
