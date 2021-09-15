@@ -4,11 +4,13 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using BusinessLogicInterface;
 using Domain;
+using WebApi.Filters;
 
 namespace WebApi.Controllers
 {
     [ApiController]
     [Route("restaurants")]
+    [RoleAuthenticationFilter("Admin")]
     public class RestaurantController : ControllerBase
     {
         private readonly IRestaurantLogic _restaurantLogic;
@@ -19,7 +21,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult GetAll()
         {
             var restaurants = this._restaurantLogic.GetAll();
 
@@ -40,7 +42,7 @@ namespace WebApi.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post(Restaurant restaurant)
+        public IActionResult Create(Restaurant restaurant)
         {
             var newRestaurant = this._restaurantLogic.Add(restaurant);
 
@@ -48,7 +50,7 @@ namespace WebApi.Controllers
         }
 
         [HttpPut("{restaurantId}")]
-        public IActionResult Put(int restaurantId, Restaurant updatedRestaurant)
+        public IActionResult Update(int restaurantId, Restaurant updatedRestaurant)
         {
             try
             {

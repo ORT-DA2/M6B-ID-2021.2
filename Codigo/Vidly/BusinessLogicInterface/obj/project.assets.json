@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\BusinessLogicInterface\\BusinessLogicInterface.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Acevedo\\Desktop\\Vidly\\BusinessLogicInterface\\BusinessLogicInterface.csproj",
       "projectName": "BusinessLogicInterface",
-      "projectPath": "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\BusinessLogicInterface\\BusinessLogicInterface.csproj",
+      "projectPath": "C:\\Users\\Daniel Acevedo\\Desktop\\Vidly\\BusinessLogicInterface\\BusinessLogicInterface.csproj",
       "packagesPath": "C:\\Users\\Daniel Acevedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\BusinessLogicInterface\\obj\\",
+      "outputPath": "C:\\Users\\Daniel Acevedo\\Desktop\\Vidly\\BusinessLogicInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Acevedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,16 +46,14 @@
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.dev.agorapic.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\Domain\\Domain.csproj"
+            "C:\\Users\\Daniel Acevedo\\Desktop\\Vidly\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Daniel Acevedo\\Desktop\\Vidly\\Domain\\Domain.csproj"
             }
           }
         }

@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BusinessLogicInterface\BusinessLogicInterface.csproj" />
     <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\DataAccessInterface\DataAccessInterface.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
