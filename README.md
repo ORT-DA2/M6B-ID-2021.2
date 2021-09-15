@@ -31,7 +31,6 @@ Los docentes somos:
 
 ### Contacto
 
-- Link de Zoom: [Link](https://ortuy.zoom.us/j/93460707803?pwd=ZnlXYkdGanNIZmdBZSt1TGZ2WnNVZz09)
 - Lecturas: [Link](https://cheerful-nation-1ca.notion.site/DA2-b7b2f6ec85964936bb35d449b643ebfd)
 
 ## Acerca del curso
