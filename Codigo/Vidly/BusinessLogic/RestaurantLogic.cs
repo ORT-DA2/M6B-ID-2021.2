@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json.Serialization;
 using BusinessLogicInterface;
 using BusinessLogicInterface.Exceptions;
 using DataAccessInterface;
@@ -11,10 +12,12 @@ namespace BusinessLogic
     public class RestaurantLogic : IRestaurantLogic
     {
         private readonly IRestaurantRepository _restaurantRepository;
+        private readonly IUserLogic _userLogic;
 
-        public RestaurantLogic(IRestaurantRepository restaurantRepository)
+        public RestaurantLogic(IRestaurantRepository restaurantRepository, IUserLogic userLogic)
         {
             this._restaurantRepository = restaurantRepository;
+            this._userLogic = userLogic;
         }
 
         public Restaurant Add(Restaurant restaurant)
@@ -30,6 +33,12 @@ namespace BusinessLogic
             if(existRestaurant)
             {
                 throw new DuplicatedRestaurantException(restaurant.Name);
+            }
+
+            bool existUser = this._userLogic.Exist(restaurant.OwnerId);
+            if(!existUser)
+            {
+                throw new InvalidOperationException("Owner doesn't exist in the database");
             }
 
             this._restaurantRepository.Create(restaurant);

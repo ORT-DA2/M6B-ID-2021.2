@@ -77,4 +77,23 @@ namespace WebApi.Controllers
             return NoContent();
         }
     }
+
+    public class RestaurntModel
+    {
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public int OwnerId { get; set; }
+
+        public Restaurant ToEntity()
+        {
+            var restaurant = new Restaurant
+            {
+                Name = this.Name,
+                Address = this.Address,
+                OwnerId = this.OwnerId
+            };
+
+            return restaurant;
+        }
+    }
 }
