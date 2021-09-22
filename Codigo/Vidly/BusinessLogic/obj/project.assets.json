@@ -15,6 +15,19 @@
           "bin/placeholder/BusinessLogicInterface.dll": {}
         }
       },
+      "DataAccessInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessInterface.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -33,6 +46,11 @@
       "path": "../BusinessLogicInterface/BusinessLogicInterface.csproj",
       "msbuildProject": "../BusinessLogicInterface/BusinessLogicInterface.csproj"
     },
+    "DataAccessInterface/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessInterface/DataAccessInterface.csproj",
+      "msbuildProject": "../DataAccessInterface/DataAccessInterface.csproj"
+    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
@@ -42,6 +60,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "BusinessLogicInterface >= 1.0.0",
+      "DataAccessInterface >= 1.0.0",
       "Domain >= 1.0.0"
     ]
   },
@@ -65,9 +84,7 @@
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.dev.agorapic.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -75,6 +92,9 @@
           "projectReferences": {
             "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\BusinessLogicInterface\\BusinessLogicInterface.csproj": {
               "projectPath": "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\BusinessLogicInterface\\BusinessLogicInterface.csproj"
+            },
+            "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\DataAccessInterface\\DataAccessInterface.csproj": {
+              "projectPath": "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\DataAccessInterface\\DataAccessInterface.csproj"
             },
             "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\Daniel Acevedo\\Documents\\GitHub\\M6B-ID-2021.2\\Codigo\\Vidly\\Domain\\Domain.csproj"
