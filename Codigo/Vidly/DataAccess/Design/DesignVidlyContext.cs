@@ -1,6 +1,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Logging;
 
 namespace DataAccess.Design
 {
@@ -13,6 +14,7 @@ namespace DataAccess.Design
 
             var optionsBuilder = new DbContextOptionsBuilder();
             optionsBuilder.UseSqlServer(connectionString);
+            optionsBuilder.LogTo(Console.WriteLine, LogLevel.Information);
 
             var vidlyContext = new VidlyContext(optionsBuilder.Options);
 
