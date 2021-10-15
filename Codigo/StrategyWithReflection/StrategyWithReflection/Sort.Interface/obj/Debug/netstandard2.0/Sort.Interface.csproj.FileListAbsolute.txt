@@ -1,0 +1,10 @@
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\bin\Debug\netstandard2.0\Sort.Interface.deps.json
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\bin\Debug\netstandard2.0\Sort.Interface.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\bin\Debug\netstandard2.0\Sort.Interface.pdb
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\obj\Debug\netstandard2.0\Sort.Interface.csproj.AssemblyReference.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\obj\Debug\netstandard2.0\Sort.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\obj\Debug\netstandard2.0\Sort.Interface.AssemblyInfoInputs.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\obj\Debug\netstandard2.0\Sort.Interface.AssemblyInfo.cs
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\obj\Debug\netstandard2.0\Sort.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\obj\Debug\netstandard2.0\Sort.Interface.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Sort.Interface\obj\Debug\netstandard2.0\Sort.Interface.pdb

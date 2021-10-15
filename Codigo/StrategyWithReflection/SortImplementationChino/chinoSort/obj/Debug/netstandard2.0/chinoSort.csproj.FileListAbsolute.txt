@@ -1,0 +1,13 @@
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\bin\Debug\netstandard2.0\chinoSort.deps.json
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\bin\Debug\netstandard2.0\chinoSort.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\bin\Debug\netstandard2.0\chinoSort.pdb
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\bin\Debug\netstandard2.0\Sort.Interface.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\bin\Debug\netstandard2.0\Sort.Interface.pdb
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.csproj.AssemblyReference.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.AssemblyInfoInputs.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.AssemblyInfo.cs
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.csproj.CopyComplete
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\SortImplementationChino\chinoSort\obj\Debug\netstandard2.0\chinoSort.pdb

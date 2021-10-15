@@ -1,0 +1,17 @@
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Main.exe
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Main.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Main.pdb
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Sort.Interface.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\bin\Debug\netcoreapp3.1\Sort.Interface.pdb
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.csproj.AssemblyReference.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.csproj.CopyComplete
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.dll
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.pdb
+C:\Users\Daniel Acevedo\Desktop\StrategyWithReflection\StrategyWithReflection\Main\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache

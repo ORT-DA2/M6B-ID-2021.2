@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/NZOSrR4THU89iU7S6Zd6LgSbAoczQHnociPhBNRJ0yOaxrwwB6hgu9kaWgUjwNN+VX9AumHKqTVZSJ9aa6Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel Acevedo\\Desktop\\StrategyWithReflection\\SortImplementationChino\\Sort.Interface\\Sort.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Acevedo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel Acevedo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
